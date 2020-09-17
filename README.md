@@ -6,6 +6,6 @@ y uso de bases de datos NoSql)
 El IDE utilizado fué Visual Studio Code.
 
 
-![Inicio] (https://raw.github.com/walkiria-paturlanne/PaginaPersonal/master/capturas/inicio.png)
+![Inicio](https://raw.github.com/walkiria-paturlanne/PaginaPersonal/master/capturas/inicio.png)
 
-![Inicio] (https://raw.github.com/walkiria-paturlanne/PaginaPersonal/master/capturas/info.png)
+![Inicio](https://raw.github.com/walkiria-paturlanne/PaginaPersonal/master/capturas/info.png)
